@@ -1,0 +1,7 @@
+id=Dualshock4
+name=Dualshock 4 layout
+version=v1
+versionCode=1
+author=more_than_hater
+description=This module contains .kl file (keylayout) of Dualshock 4 (v2), should work for v1 too, for any android device.
+minMagisk=1500
